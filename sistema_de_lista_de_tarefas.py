@@ -16,6 +16,7 @@ while True:
 
     # Estrutura try para colocar uma mensagem de erro e evitar que o programa quebre
     try:
+
         # Variavel que armazena o valor da opção para que possa ser executada
         opcao = int(input("Escolha uma opção: "))
 
